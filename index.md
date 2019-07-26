@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Ying Cai
+Associate Professor 
+College of Electrical & Information Engineering
+Southwest Minzhu University
+China
 
-You can use the [editor on GitHub](https://github.com/carina34/carina34.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Email: 21500121@swun.edu.cn
 
 ### Markdown
 
