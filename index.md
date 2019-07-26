@@ -4,7 +4,10 @@ College of Electrical & Information Engineering
 Southwest Minzhu University
 China
 
-Email: 21500121@swun.edu.cn
+Email: carina34@swun.edu.cn
+
+![图片描述](图片链接)
+![证件照](/zhengjianzhao.jpg)
 
 ### Markdown
 
