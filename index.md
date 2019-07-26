@@ -2,28 +2,18 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>Ying Cai</h1>
+      <p><b>Associate Professor</b></p>
+      <p><b>College of Electrical & Information Engineering</b></p>
+      <p><b>Southwest Minzhu University</b></p>
+      <p><b>China</b></p>
+      <p><b>Email: carina34@swun.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/民大.jpg" width="100%">      % 插入证件照代码
+      <img src="/民大.jpg" width="100%"> 
     </td>
   </tr>
 </table>
- 
-Associate Professor 
-College of Electrical & Information Engineering
-Southwest Minzhu University
-China
-
-Email: carina34@swun.edu.cn
-
-![图片描述](图片链接)
-![证件照](/zhengjianzhao.jpg)
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
