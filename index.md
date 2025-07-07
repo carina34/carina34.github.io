@@ -4,13 +4,13 @@
     <td width="75%">
       <h1>Ying Cai</h1>
       <p><b>Associate Professor</b></p>
-      <p><b>College of Electrical & Information Engineering</b></p>
+      <p><b>College of Computer Science and Artifcial Intelligence</b></p>
       <p><b>Southwest Minzhu University</b></p>
       <p><b>China</b></p>
-      <p><b>Email: carina34@swun.edu.cn</b></p>
+      <p><b>Email: caiying@swun.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="/民大.jpg" width="100%"> 
+      <img src="/标清照_1747039993508936908-461669.jpg" width="100%"> 
     </td>
   </tr>
 </table>
